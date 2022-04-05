@@ -1,7 +1,10 @@
-Projet DEFIIA2022_Equipe DEEPCAMP: description des notebooks python
+Dans le contexte d'un projet kaggle inter-université, il a fallu prédire le cumul de pluie en région bretonne à partir de modèle de Machine et Deep Learning.
+Ce projet s'est fait en collaboration avec Météo France.
 
-Chaque notebook renvoie à une partie spécifique du rapport (présent dans la partie 'Documentation').
-La norme de nommage d'un notebook est la suivante :
+Dans la partie 'Documentation', on peut retrouver le rapport retracant les différentes intuitions et méthodes utilisées durant le projet ainsi que les résultats obtenus.
+
+Chaque partie du rapport (présent dans la partie 'Documentation') vient en support des différents notebooks.
+Pour trouver le notebook correspondant il faut savoir que la norme utilisée et la suivante : 
        
        DEEPCAMP_<PARTIE_RAPPORT>_<TITRE_NOTEBOOK>.ipynb
        
@@ -10,6 +13,7 @@ Par exemple :
        DEEPCAMP_P1B_ANALYSE_STATISTIQUE.ipynb
        
 est le notebook qui renvoie à la partie 1 section B et il s'agit du notebook d'analyse statistique.
+DEEPCAMP est le nom du groupe sur Kaggle.
 
 Dans le cadre du projet, deux jeux de données différents ont été utilisés : 
 
